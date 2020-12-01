@@ -8,7 +8,7 @@
       <p><b>地址：宁波市鄞州区盛莫路1519号万里学院，2号楼，邮编315100</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/IMG_1173(20201130-130225).JPG" width="100%">     
     </td>
   </tr>
 </table>
